@@ -1,0 +1,35 @@
+menu_entry:
+  - title: Abteilungen
+    menu_entry:
+    - page: https://tischtennis.tsv-zorneding.de
+      title: Badminton
+    - page: https://tischtennis.tsv-zorneding.de
+      title: Basketball
+    - page: https://fuge.tsv-zorneding.de
+      title: Fit und Gesund für Erwachsene
+    - page: https://fussball.tsv-zorneding.de
+      title: Fußball
+    - page: https://fussball.tsv-zorneding.de
+      title: Handball
+    - page: https://leichtathletik.tsv-zorneding.de
+      title: Leichtathletik
+    - page: https://taekwondo.tsv-zorneding.de
+      title: Taekwondo
+    - page: https://tchoukball.tsv-zorneding.de
+      title: Tchoukball
+    - page: https://tischtennis.tsv-zorneding.de
+      title: Tischtennis
+    - page: https://turnen.tsv-zorneding.de
+      title: Turnen
+    - page: https://volleyball.tsv-zorneding.de
+      title: Volleyball
+  - page: ansprechpartner
+    title: Ansprechpartner
+  - page: 100-jahre-tsv
+    title: 100 Jahre TSV
+  - page: sportanlagen
+    title: Sportanlagen
+  - page: downloads
+    title: Downloads
+  - page: sponsoren
+    title: Sponsoren
