@@ -23,13 +23,13 @@ menu_entry:
       title: Turnen
     - page: https://volleyball.tsv-zorneding.de
       title: Volleyball
-  - page: ansprechpartner
+  - page: /ansprechpartner
     title: Ansprechpartner
-  - page: 100-jahre-tsv
+  - page: /100-jahre-tsv
     title: 100 Jahre TSV
-  - page: sportanlagen
+  - page: /sportanlagen
     title: Sportanlagen
-  - page: downloads
+  - page: /downloads
     title: Downloads
-  - page: sponsoren
+  - page: /sponsoren
     title: Sponsoren
