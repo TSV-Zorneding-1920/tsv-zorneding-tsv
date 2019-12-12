@@ -17,7 +17,7 @@ sections:
 
         
         Vielen Dank für den Besuch unserer Website
-        
+
 
         Ihr TSV-Team
     image: /img/SH-Aussen.jpg
@@ -29,27 +29,27 @@ sections:
       - image: /img/basketball.jpg
         title: Basketball
       - image: /img/fuge.jpg
-        title: Fit und Gesund für Erwachsene
+        title: Fit und Gesund
         link: 'https://fuge.tsv-zorneding.de/'
-      - image: /img/default.jpg
+      - image: /img/fussball.jpg
         title: Fussball
         link: 'https://fussball.tsv-zorneding.de/'
-      - image: /img/default.jpg
+      - image: /img/handball.jpg
         title: Handball
         link: 'https://handball.tsv-zorneding.de/'
-      - image: /img/default.jpg
+      - image: /img/leichtathletik.jpg
         title: Leichtathletik
         link: 'https://leichtathletik.tsv-zorneding.de/'
-      - image: /img/default.jpg
+      - image: /img/taekwondo.jpg
         title: Taekwondo
         link: 'https://taekwondo.tsv-zorneding.de/'
       - image: /img/racket_ball.jpg
         title: Tischtennis
         link: 'https://tischtennis.tsv-zorneding.de'
-      - image: /img/default.jpg
+      - image: /img/turnen.jpg
         title: Turnen
         link: 'https://turnen.tsv-zorneding.de/'
-      - image: /img/default.jpg
+      - image: /img/volleyball.jpg
         title: Volleyball
         link: 'https://volleyball.tsv-zorneding.de/'
     title: Unser Sportangebot
