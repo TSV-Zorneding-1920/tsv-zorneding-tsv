@@ -21,9 +21,7 @@ menu_entry:
       title: Turnen
     - page: https://volleyball.tsv-zorneding.de
       title: Volleyball
-  - page: /ansprechpartner
-    title: Ansprechpartner
-  - page: /100-jahre-tsv
+  - page: https://www.100jahretsv.de
     title: 100 Jahre TSV
   - page: /sportanlagen
     title: Sportanlagen

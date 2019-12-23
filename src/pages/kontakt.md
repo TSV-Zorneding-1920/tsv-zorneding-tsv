@@ -21,68 +21,107 @@ sections:
             
             08106/23231
         title: Erwin Rett
-      - image_small: /img/Damen1_19_20.jpg
+      - image_small: /img/R.Schonlau.jpg
         body: >-
-            Stv. Abteilungsleiter
-        title: Thomas Thalmair
-      - image_small: /img/Damen1_19_20.jpg
+            Schatzmeisterin
+        title: Renate Schonlau
+      - image_small: /img/G.Ziepl.jpg
         body: >-
-            Jugendleitung
+            stv.Schatzmeisterin
+        title: Gerlinde Ziepl
+      - image_small: /img/F.Oeckl.jpg
+        body: >-
+            Jugendvertreterin
 
 
-            0152/27670241
-        title: Hannelore Endres-Daßler
-      - image_small: /img/Damen1_19_20.jpg
+            08106/23770
+        title: Francesca Oeckl
+      - image_small: /img/I.Weidauer.jpg
         body: >-
             Schriftführerin
-        title: Sandra Pfürmann
-      - image_small: /img/Damen1_19_20.jpg
+        title: Ingrid Weidauer
+      - image_small: /img/A.Wall.jpg
         body: >-
-            Kassenwart
-
-
-            08106/29419
-        title: Wolfgang Bues
+            Ehrenvorstand
+        title: Alfred Wall
   - type: image_text_small
     title: Abteilungsleiter
     info:
-      - image_small: /img/B.Kalwarowskyj.jpg
+      - image_small: 
         body: >-
-            1.Vorsitzende
+            Badminton
 
-
-            08106/247793
-
-        title: Bohdan Kalwarowskyj
-      - image_small: /img/E.Rett.jpg
+        title: Peter Hofstetter
+      - image_small: /img/P.Kammerlocher.jpg
         body: >-
-            stv.Vorsitzender
+            Basketball
+        title: Philip Kammerlocher
+      - image_small: 
+        body: >-
+            Fit und Gesund für Erwachsene
+        title: Heike Ross
+      - image_small: /img/W.Hommelsen.jpg
+        body: >-
+            Fußball Herren
 
+
+            0162/4950898
+        title: Walter Hommelsen
+      - image_small: 
+        body: >-
+            Fußball Juggend
+
+
+            089 / 6606 5691
             
-            08106/23231
-        title: Erwin Rett
-      - image_small: /img/Damen1_19_20.jpg
+            
+            0172 / 5885 798
+        title: Mario Hüneburg
+      - image_small: 
         body: >-
-            Stv. Abteilungsleiter
-        title: Thomas Thalmair
-      - image_small: /img/Damen1_19_20.jpg
-        body: >-
-            Jugendleitung
+            Handball
 
 
-            0152/27670241
-        title: Hannelore Endres-Daßler
-      - image_small: /img/Damen1_19_20.jpg
+            0172/8530605
+        title: Petra Gibtner
+      - image_small: /img/M.Haendel.jpg
         body: >-
-            Schriftführerin
-        title: Sandra Pfürmann
-      - image_small: /img/Damen1_19_20.jpg
-        body: >-
-            Kassenwart
+            Leichtathletik
 
 
-            08106/29419
-        title: Wolfgang Bues
+            08106 / 20846
+
+    
+            0162 / 2590253
+        title: Manfred Händel
+      - image_small: /img/A.Duerre.jpg
+        body: >-
+            Taekwondo
+
+
+            08106 / 33520
+        title: Anja Duerre
+      - image_small: /img/C.Fritsch.jpg
+        body: >-
+            Tischtennis
+
+
+            0152 / 33544763
+        title: Christian Fritsch
+      - image_small: /img/W.Endler.jpg
+        body: >-
+            Turnen
+
+
+            08106 / 20304
+        title: Wolfgang Endler
+      - image_small:
+        body: >-
+            Volleyball
+
+
+            0160 / 4589012
+        title: Ralph Richter
   - type: contact
 
 ---
