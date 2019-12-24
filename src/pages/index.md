@@ -45,6 +45,7 @@ sections:
         link: 'https://taekwondo.tsv-zorneding.de/'
       - image: /img/racket_ball.jpg
         title: Tischtennis
+        body: 'Die Tischtennis Abteilung des TSV Zorneding 1920 e.V. besteht aus ca. 70 Mitgliedern, davon etwa 30 Jugendliche und Kinder.'
         link: 'https://tischtennis.tsv-zorneding.de'
       - image: /img/turnen.jpg
         title: Turnen
