@@ -13,10 +13,10 @@ sections:
     title: Vereinszeitung
     type: link_list
   - element:
-      - link: https://google.de
-        title: Link 1
-      - link: https://google.de
-        title: Link 2
+      - link: img/20140509_TSV-Satzung.pdf
+        title: Satzung
+      - link: img/20190116_Beitrittserklaerung-Aufnahmebedingungen.pdf
+        title: Beitrittserklärung
     title: Sonstiges
     type: link_list
 ---
