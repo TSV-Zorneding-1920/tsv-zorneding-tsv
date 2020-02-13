@@ -17,6 +17,8 @@ sections:
         title: Satzung
       - file: /img/20190116_Beitrittserklaerung-Aufnahmebedingungen.pdf
         title: Beitrittserklärung
+      - file: /img/Hallenbelegungsanfrage.pdf
+        title: Hallenbelegungsanfrage
     title: Sonstiges
     type: file_list
 ---

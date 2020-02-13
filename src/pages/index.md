@@ -26,32 +26,41 @@ sections:
   - nodes:
       - image: /img/badminton.jpg
         title: Badminton
+        body: Allroundsport für Kopf und Körper
       - image: /img/basketball.jpg
         title: Basketball
+        body: Körperlos und schnell
       - image: /img/fuge.jpg
         title: Fit und Gesund
         link: 'https://fuge.tsv-zorneding.de/'
+        body: bis ins hohe Alter
       - image: /img/fussball.jpg
         title: Fussball
+        body: Der beliebteste Sport der Welt
         link: 'https://fussball.tsv-zorneding.de/'
       - image: /img/handball.jpg
         title: Handball
+        body: Spannung pur von Anfang bis Ende
         link: 'https://handball.tsv-zorneding.de/'
       - image: /img/leichtathletik.jpg
         title: Leichtathletik
+        body: Die Königin des Sports
         link: 'https://leichtathletik.tsv-zorneding.de/'
       - image: /img/taekwondo.jpg
         title: Taekwondo
+        body: Schult gleichermaßen Körper und Geist
         link: 'https://taekwondo.tsv-zorneding.de/'
       - image: /img/racket_ball.jpg
         title: Tischtennis
-        body: 'Die Tischtennis Abteilung des TSV Zorneding 1920 e.V. besteht aus ca. 70 Mitgliedern, davon etwa 30 Jugendliche und Kinder.'
+        body: 'Die schnellste Ballsportart der Welt'
         link: 'https://tischtennis.tsv-zorneding.de'
       - image: /img/turnen.jpg
         title: Turnen
+        body: Die „Mutter“ aller Sportarten
         link: 'https://turnen.tsv-zorneding.de/'
       - image: /img/volleyball.jpg
         title: Volleyball
+        body: Ein echter Teamsport
         link: 'https://volleyball.tsv-zorneding.de/'
     title: Unser Sportangebot
     type: image_text

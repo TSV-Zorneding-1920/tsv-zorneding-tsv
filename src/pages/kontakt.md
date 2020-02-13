@@ -3,6 +3,16 @@ templateKey: static-page
 title: Kontakt
 showTitle: true
 sections:
+  - body: |-
+      Am Sportpark 4, 85604 Zorneding
+
+      Tel.: 08106/20772
+      
+      E-Mail: info@tsv-zorneding.de
+      
+      Öffnungszeiten: Dienstag 18-19 Uhr, Donnerstag 18-20 Uhr **-- nicht in den Ferien --**
+    type: body
+    title: Geschäftsstelle
   - type: image_text_small
     title: Vorstand
     info:
@@ -36,10 +46,6 @@ sections:
 
             08106/23770
         title: Francesca Oeckl
-      - image_small: /img/I.Weidauer.jpg
-        body: >-
-            Schriftführerin
-        title: Ingrid Weidauer
       - image_small: /img/A.Wall.jpg
         body: >-
             Ehrenvorstand
