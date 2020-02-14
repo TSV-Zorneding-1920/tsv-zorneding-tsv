@@ -18,7 +18,7 @@ sections:
     info:
       - image_small: /img/B.Kalwarowskyj.jpg
         body: >-
-            1.Vorsitzende
+            1. Vorsitzende
 
 
             08106/247793
@@ -26,7 +26,7 @@ sections:
         title: Bohdan Kalwarowskyj
       - image_small: /img/E.Rett.jpg
         body: >-
-            stv.Vorsitzender
+            stv. Vorsitzender
 
             
             08106/23231
@@ -37,7 +37,7 @@ sections:
         title: Renate Schonlau
       - image_small: /img/G.Ziepl.jpg
         body: >-
-            stv.Schatzmeisterin
+            stv. Schatzmeisterin
         title: Gerlinde Ziepl
       - image_small: /img/F.Oeckl.jpg
         body: >-
