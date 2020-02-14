@@ -4,6 +4,11 @@ title: Downloads
 showTitle: true
 sections:
   - element:
+      - file: /img/20190116_Beitrittserklaerung-Aufnahmebedingungen.pdf
+        title: Beitrittserklärung
+    title: Mitglied werden
+    type: file_list
+  - element:
       - file: /img/1912-VM53.pdf
         title: Vereinszeitung 2019
       - file: /img/1811-VM52.pdf
@@ -17,8 +22,6 @@ sections:
   - element:
       - file: /img/20140509_TSV-Satzung.pdf
         title: Satzung
-      - file: /img/20190116_Beitrittserklaerung-Aufnahmebedingungen.pdf
-        title: Beitrittserklärung
       - file: /img/Hallenbelegungsanfrage.pdf
         title: Hallenbelegungsanfrage
     title: Sonstiges
