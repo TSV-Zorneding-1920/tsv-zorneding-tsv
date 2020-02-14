@@ -8,7 +8,7 @@ sections:
 
       Tel.: 08106/20772
       
-      E-Mail: info@tsv-zorneding.de
+      E-Mail: <a href="mailto:info@tsv-zorneding.de">info@tsv-zorneding.de</a>
       
       Öffnungszeiten: Dienstag 18-19 Uhr, Donnerstag 18-20 Uhr **-- nicht in den Ferien --**
     type: body

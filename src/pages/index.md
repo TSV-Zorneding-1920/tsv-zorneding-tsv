@@ -23,6 +23,9 @@ sections:
     image: /img/SH-Aussen.jpg
     headline: Willkommen
     type: banner
+  - image: /img/mitglied.jpg
+    type: image
+    link: '/downloads'
   - nodes:
       - image: /img/badminton.jpg
         title: Badminton
