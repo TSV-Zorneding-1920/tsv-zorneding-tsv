@@ -52,7 +52,7 @@ sections:
         link: 'https://taekwondo.tsv-zorneding.de/'
       - image: /img/racket_ball.jpg
         title: Tischtennis
-        body: 'Die schnellste Ballsportart der Welt'
+        body: 'Der schnellste Rückschlagsport der Welt'
         link: 'https://tischtennis.tsv-zorneding.de'
       - image: /img/turnen.jpg
         title: Turnen

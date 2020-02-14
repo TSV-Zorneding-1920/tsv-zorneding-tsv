@@ -4,6 +4,8 @@ title: Downloads
 showTitle: true
 sections:
   - element:
+      - file: /img/1912-VM53.pdf
+        title: Vereinszeitung 2019
       - file: /img/1811-VM52.pdf
         title: Vereinszeitung 2018
       - file: /img/1711-VZ51.pdf
