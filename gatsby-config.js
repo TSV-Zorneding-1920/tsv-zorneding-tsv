@@ -1,35 +1,25 @@
-const activeEnv = process.env.ACTIVE_ENV | "development";
+const activeEnv =
+  process.env.GATSBY_ACTIVE_ENV || process.env.NODE_ENV || "development";
+
 require("dotenv").config({
   path: `.env.${activeEnv}`
 });
-const {
-  NODE_ENV,
-  URL: NETLIFY_SITE_URL = "https://www.tsv-zorneding.de",
-  DEPLOY_PRIME_URL: NETLIFY_DEPLOY_URL = NETLIFY_SITE_URL,
-  CONTEXT: NETLIFY_ENV = NODE_ENV
-} = process.env;
-const isNetlifyProduction = NETLIFY_ENV === "production";
-const siteUrl = isNetlifyProduction ? NETLIFY_SITE_URL : NETLIFY_DEPLOY_URL;
 
-const title = `TSV Zorneding 1920 e.V.`;
+const fs = require("fs");
+let settings = JSON.parse(fs.readFileSync("src/data/settings.json"));
+
 module.exports = {
   siteMetadata: {
-    title,
-    section: `TSV Zorneding 1920 e.V.`,
-    description: ``,
-    author: `TSV Zorneding 1920 e.V.`,
-    social: {
-      facebook: ``,
-      instagram: ``,
-      twitter: ``,
-      youtube: ``
-    },
-    siteUrl
+    ...settings,
+    siteUrl: process.env.GATSBY_SITE_URL
   },
   plugins: [
     {
       resolve: `gatsby-theme-tsv-zorneding`,
-      options: { NETLIFY_ENV, title }
+      options: {
+        ENV: activeEnv,
+        title: settings.title
+      }
     }
   ]
 };
