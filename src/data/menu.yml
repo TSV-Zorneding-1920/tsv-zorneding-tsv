@@ -1,15 +1,17 @@
 menu_entry:
   - title: Abteilungen
     menu_entry:
-    - page: https://tischtennis.tsv-zorneding.de
+    - page: 
       title: Badminton
-    - page: https://tischtennis.tsv-zorneding.de
+    - page: 
       title: Basketball
     - page: https://fuge.tsv-zorneding.de
       title: Fit und Gesund für Erwachsene
     - page: https://fussball.tsv-zorneding.de
       title: Fußball
-    - page: https://fussball.tsv-zorneding.de
+    - page: https://fussball-herren.tsv-zorneding.de
+      title: Fußball Herren
+    - page: https://handball.tsv-zorneding.de
       title: Handball
     - page: https://leichtathletik.tsv-zorneding.de
       title: Leichtathletik
