@@ -23,7 +23,7 @@ sections:
     image: /img/SH-Aussen.jpg
     headline: Willkommen
     type: banner
-  - image: /img/mitglied.jpg
+  - image_large: /img/mitglied.jpg
     type: image
     link: '/downloads'
   - nodes:
