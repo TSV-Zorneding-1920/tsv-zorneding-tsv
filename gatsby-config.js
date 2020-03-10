@@ -20,6 +20,13 @@ module.exports = {
         ENV: activeEnv,
         title: settings.title
       }
+    },
+    {
+      resolve: `gatsby-source-rss-feed`,
+      options: {
+        url: `https://tischtennis.tsv-zorneding.de/rss.xml`,
+        name: `Tischtennis`
+      }
     }
   ]
 };
