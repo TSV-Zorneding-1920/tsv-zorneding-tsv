@@ -4,6 +4,11 @@ title: Startseite
 showTitle: false
 sections:
   - body: >-
+        Der TSV Zorneding trauert um seinen Spieler und Jugendtrainer Manfred Hauser jun. Wir sind zutiefst bestürzt. Unsere Gedanken und unsere Anteilnahme gelten der Familie und den Angehörigen.
+    image: /img/candle.jpg
+    headline: Der TSV Zorneding trauert um Manfred Hauser jun.
+    type: banner
+  - body: >-
         Der TSV Zorneding hat zurzeit rund 1400 Mitglieder und ist der größte Verein in Zorneding.
 
 
