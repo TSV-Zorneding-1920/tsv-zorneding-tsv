@@ -4,7 +4,7 @@ title: Startseite
 showTitle: false
 sections:
   - body: >-
-        Der TSV Zorneding trauert um seinen Spieler und Jugendtrainer Manfred Hauser jun. Wir sind zutiefst bestürzt. Unsere Gedanken und unsere Anteilnahme gelten der Familie und den Angehörigen.
+        Der TSV Zorneding trauert um seinen Spieler und Jugendtrainer Manfred Hauser jun. (23). Wir sind zutiefst bestürzt. Unsere Gedanken und unsere Anteilnahme gelten der Familie und den Angehörigen.
     image: /img/candle.jpg
     headline: Der TSV Zorneding trauert um Manfred Hauser jun.
     type: banner
