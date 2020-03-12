@@ -20,6 +20,12 @@ module.exports = {
         ENV: activeEnv,
         title: settings.title
       }
+    },
+    {
+      resolve: "gatsby-plugin-htaccess",
+      options: {
+        www: true
+      }
     }
   ]
 };
