@@ -6,6 +6,8 @@ sticky: false
 featured: false
 featuredimage: /img/corona.jpg
 tags:
+  - Coronavirus (COVID-19)
+author: Bohdan Kalwarowskyj
 ---
 Die Verbreitung des Coronavirus erfolgt unverändert und dynamisch. Das Landratsamt beabsichtigt, landkreisweit alle Hallen und Sportplätze zu sperren.
 Der Vorstand des TSV Zorneding hat sich abgestimmt und wird zum Schutz der Sportler und ihrer Familien den Sportbetrieb **spätestens ab Montag, dem 16.03.2020** vollständig einstellen. Sollte das LRA eine sofortige Schließung anordnen, werden wir diese Anordnung sofort anpassen.
@@ -15,9 +17,3 @@ Spätestens ab diesem Zeitpunkt ist es untersagt, die **Sporthallen** oder **Spo
 
 
 Wie lange die Sperrung beibehalten wird, hängt von den Behörden ab. Angedacht ist derzeit bis Ende der Osterferien 19.04.2020.
-
-Bohdan Kalwarowskyj
-1. Vorsitzender
-
- 
-
