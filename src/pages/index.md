@@ -56,6 +56,10 @@ sections:
         title: Taekwondo
         body: Schult gleichermaßen Körper und Geist
         link: 'https://taekwondo.tsv-zorneding.de/'
+      - image: /img/TangSooDo.jpg
+        title: Tang Soo Do
+        body: Tang Soo Do ist Kampfkunst aus Korea
+        link: 'https://tsd-zorneding.de/'
       - image: /img/racket_ball.jpg
         title: Tischtennis
         body: 'Der schnellste Rückschlagsport der Welt'
