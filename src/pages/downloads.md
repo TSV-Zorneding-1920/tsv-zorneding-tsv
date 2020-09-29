@@ -8,6 +8,11 @@ sections:
         title: Beitrittserklärung
     title: Mitglied werden
     type: file_list
+  - type: file_list
+    title: Sportangebot
+    element:
+      - file: /img/20201001_Uebungsprogramm.pdf
+        title: Übungsprogramm 2020
   - element:
       - file: /img/1912-VM53.pdf
         title: Vereinszeitung 2019
