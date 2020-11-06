@@ -11,7 +11,7 @@ sections:
   - type: file_list
     title: Sportangebot
     element:
-      - file: /img/20201001_Uebungsprogramm.pdf
+      - file: /img/20201014_Uebungsprogramm.pdf
         title: Übungsprogramm 2020
   - element:
       - file: /img/1912-VM53.pdf

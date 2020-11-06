@@ -1,6 +1,7 @@
 ---
 templateKey: static-page
 title: Kontakt
+slug: kontakt
 showTitle: true
 sections:
   - body: >-
@@ -13,8 +14,7 @@ sections:
       E-Mail: <a href="mailto:info@tsv-zorneding.de">info@tsv-zorneding.de</a>
 
 
-      Öffnungszeiten: Dienstag 18-19 Uhr, Donnerstag 18-20 Uhr **-- nicht in den
-      Ferien --**
+      Öffnungszeiten: Dienstag 18-19 Uhr, Donnerstag 18-20 Uhr **-- nicht in den Ferien --**
     type: body
     title: Geschäftsstelle
   - type: image_text_small
@@ -59,12 +59,13 @@ sections:
       - image_small: /img/default_person.png
         body: Fit und Gesund für Erwachsene
         title: Heike Ross
-      - image_small: /img/W.Hommelsen.jpg
+      - image_small: /img/default_person.png
         body: |-
           Fußball Herren
 
-          0162/4950898
-        title: Walter Hommelsen
+          0176 / 21834455\
+          [jakobb@email.de](<mailto:﻿jakobb@email.de>)
+        title: Jakob Bouacha
       - image_small: /img/default_person.png
         body: |-
           Fußball Juggend
@@ -93,12 +94,12 @@ sections:
 
           08106 / 33520
         title: Anja Duerre
-      - image_small: /img/C.Fritsch.jpg
+      - image_small: /img/default_person.png
         body: |-
           Tischtennis
 
-          0152 / 33544763
-        title: Christian Fritsch
+          0160 / 6248004
+        title: André Duwel
       - image_small: /img/W.Endler.jpg
         body: |-
           Turnen
@@ -112,4 +113,3 @@ sections:
           0160 / 4589012
         title: Ralph Richter
 ---
-
