@@ -14,6 +14,8 @@ sections:
       - file: /img/20201014_Uebungsprogramm.pdf
         title: Übungsprogramm 2020
   - element:
+      - file: /img/2012_VM54.pdf
+        title: Vereinszeitung 2020
       - file: /img/1912-VM53.pdf
         title: Vereinszeitung 2019
       - file: /img/1811-VM52.pdf
