@@ -30,7 +30,9 @@ sections:
         body: |-
           stv. Vorsitzender
 
-          08106/20772
+          089 / 6606 5691
+
+          0172 / 5885 798
         title: Mario Hüneburg
       - image_small: /img/R.Schonlau.jpg
         body: Schatzmeisterin
