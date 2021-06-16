@@ -40,7 +40,7 @@ sections:
       - image_small: /img/G.Ziepl.jpg
         body: stv. Schatzmeisterin
         title: Gerlinde Ziepl
-      - image_small: /img/default.jpg
+      - image_small: /img/default_person.png
         title: Uschi Philipp
         body: Schriftführerin
       - image_small: /img/F.Oeckl.jpg
