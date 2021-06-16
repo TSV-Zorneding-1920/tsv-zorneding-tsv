@@ -22,7 +22,7 @@ sections:
     info:
       - image_small: /img/erwin-rett-1.-vorsitzender-tsv-zorneding-1920.jpg
         body: |-
-          1. Vorsitzende
+          1. Vorsitzender
 
           08106/23231
         title: Erwin Rett
