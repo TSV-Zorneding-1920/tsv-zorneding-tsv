@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
 title: Impressum
-slug: www.tsv-zorneding.de
+slug: impressum
 showTitle: true
 sections:
   - body: >-
