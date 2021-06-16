@@ -26,12 +26,12 @@ sections:
 
           08106/23231
         title: Erwin Rett
-      - image_small: /img/E.Rett.jpg
+      - image_small: /img/mario-hu-neburg-2-.vorsitzender-tsv-zorneding-1920.jpg
         body: |-
           stv. Vorsitzender
 
-          08106/23231
-        title: Erwin Rett
+          08106/20772
+        title: Mario Hüneburg
       - image_small: /img/R.Schonlau.jpg
         body: Schatzmeisterin
         title: Renate Schonlau
