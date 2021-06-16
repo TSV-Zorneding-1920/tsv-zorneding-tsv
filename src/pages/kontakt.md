@@ -20,12 +20,12 @@ sections:
   - type: image_text_small
     title: Vorstand
     info:
-      - image_small: /img/B.Kalwarowskyj.jpg
+      - image_small: /img/erwin-rett-1.-vorsitzender-tsv-zorneding-1920.jpg
         body: |-
           1. Vorsitzende
 
-          08106/247793
-        title: Bohdan Kalwarowskyj
+          08106/23231
+        title: Erwin Rett
       - image_small: /img/E.Rett.jpg
         body: |-
           stv. Vorsitzender
