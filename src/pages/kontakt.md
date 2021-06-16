@@ -49,6 +49,9 @@ sections:
       - image_small: /img/A.Wall.jpg
         body: Ehrenvorstand
         title: Alfred Wall
+      - image_small: /img/default.jpg
+        title: Uschi Philipp
+        body: Schriftführerin
   - type: image_text_small
     title: Abteilungsleiter
     info:
