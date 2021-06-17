@@ -3,8 +3,8 @@ templateKey: blog-post
 title: "TSV Zorneding: Vereinsausschuss besetzt Vorstand nach"
 author: TSV Zorneding, der Vorstand
 date: 2021-06-10T05:53:00.000Z
-sticky: false
-featured: false
+sticky: true
+featured: true
 featuredimage: /img/default.jpg
 ---
 <!--\[if gte mso 9]><xml>
