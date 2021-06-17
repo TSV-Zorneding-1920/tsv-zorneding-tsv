@@ -40,7 +40,7 @@ sections:
       - image_small: /img/G.Ziepl.jpg
         body: stv. Schatzmeisterin
         title: Gerlinde Ziepl
-      - image_small: /img/default_person.png
+      - image_small: /img/uschi-philipp_schriftfu-hrerin_tsv-zorneding.jpg
         title: Uschi Philipp
         body: Schriftführerin
       - image_small: /img/F.Oeckl.jpg
