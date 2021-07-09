@@ -7,7 +7,7 @@ sticky: false
 featured: false
 featuredimage: /img/default.jpg
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -47,9 +47,9 @@ featuredimage: /img/default.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -628,9 +628,9 @@ featuredimage: /img/default.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -654,7 +654,7 @@ featuredimage: /img/default.jpg
 	mso-bidi-font-family:Calibri;
 	mso-bidi-theme-font:minor-bidi;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -670,54 +670,54 @@ Sollten Sie technisch nicht in der Lage sein, an der Mitgliederversammlung teilz
 
 **Tagesordnung:**
 
-<!--\\[if !supportLists]-->1.     <!--\\[endif]-->Begrüßung und Eröffnung der Versammlung durch den Vorsitzenden
+<!--\\\[if !supportLists]-->1.     <!--\\\[endif]-->Begrüßung und Eröffnung der Versammlung durch den Vorsitzenden
 
-<!--\\[if !supportLists]-->2.     <!--\\[endif]-->Totengedenken
+<!--\\\[if !supportLists]-->2.     <!--\\\[endif]-->Totengedenken
 
-<!--\\[if !supportLists]-->3.     <!--\\[endif]-->Feststellung der ordnungsgemäßen Einladung und Beschlussfähigkeit
+<!--\\\[if !supportLists]-->3.     <!--\\\[endif]-->Feststellung der ordnungsgemäßen Einladung und Beschlussfähigkeit
 
-<!--\\[if !supportLists]-->4.     <!--\\[endif]-->Bekanntgabe der vorliegenden Anträge (Beschlussfassung Punkt 11)
+<!--\\\[if !supportLists]-->4.     <!--\\\[endif]-->Bekanntgabe der vorliegenden Anträge (Beschlussfassung Punkt 11)
 
-<!--\\[if !supportLists]-->5.     <!--\\[endif]-->Beschlussfassung über Tagesordnung
+<!--\\\[if !supportLists]-->5.     <!--\\\[endif]-->Beschlussfassung über Tagesordnung
 
-<!--\\[if !supportLists]-->6.     <!--\\[endif]-->Geschäftsbericht des Vorsitzenden
+<!--\\\[if !supportLists]-->6.     <!--\\\[endif]-->Geschäftsbericht des Vorsitzenden
 
-<!--\\[if !supportLists]-->7.     <!--\\[endif]-->Bericht des Schatzmeisters
+<!--\\\[if !supportLists]-->7.     <!--\\\[endif]-->Bericht des Schatzmeisters
 
-<!--\\[if !supportLists]-->8.     <!--\\[endif]-->Bericht des Vereinsjugendleiters
+<!--\\\[if !supportLists]-->8.     <!--\\\[endif]-->Bericht des Vereinsjugendleiters
 
-<!--\\[if !supportLists]-->9.     <!--\\[endif]-->Bericht der Revisoren
+<!--\\\[if !supportLists]-->9.     <!--\\\[endif]-->Bericht der Revisoren
 
-<!--\\[if !supportLists]-->10.  <!--\\[endif]-->Satzungsänderung lt. Erläuterung
+<!--\\\[if !supportLists]-->10.  <!--\\\[endif]-->Satzungsänderung lt. Erläuterung
 
-<!--\\[if !supportLists]-->11.  <!--\\[endif]-->Beschlussfassung über vorliegende Anträge
+<!--\\\[if !supportLists]-->11.  <!--\\\[endif]-->Beschlussfassung über vorliegende Anträge
 
-<!--\\[if !supportLists]-->12.  <!--\\[endif]-->100-jähriges Vereinsjubiläum
+<!--\\\[if !supportLists]-->12.  <!--\\\[endif]-->100-jähriges Vereinsjubiläum
 
-<!--\\[if !supportLists]-->13.  <!--\\[endif]-->Ehrung verdienter und langjähriger Mitglieder
+<!--\\\[if !supportLists]-->13.  <!--\\\[endif]-->Ehrung verdienter und langjähriger Mitglieder
 
-<!--\\[if !supportLists]-->14.  <!--\\[endif]-->Bildung des Wahlausschusses (Wahlleiter und Wahl-Protokollführer)
+<!--\\\[if !supportLists]-->14.  <!--\\\[endif]-->Bildung des Wahlausschusses (Wahlleiter und Wahl-Protokollführer)
 
-<!--\\[if !supportLists]-->15.  <!--\\[endif]-->Entlastung des gesamten Vorstandes
+<!--\\\[if !supportLists]-->15.  <!--\\\[endif]-->Entlastung des gesamten Vorstandes
 
-<!--\\[if !supportLists]-->16.  <!--\\[endif]-->Neuwahl
+<!--\\\[if !supportLists]-->16.  <!--\\\[endif]-->Neuwahl
 
-<!--\\[if !supportLists]-->a)  <!--\\[endif]-->1.Vorsitzender
+<!--\\\[if !supportLists]-->a)  <!--\\\[endif]-->1.Vorsitzender
 
-<!--\\[if !supportLists]-->b) <!--\\[endif]-->2. Vorsitzender
+<!--\\\[if !supportLists]-->b) <!--\\\[endif]-->2. Vorsitzender
 
-<!--\\[if !supportLists]-->c)  <!--\\[endif]-->1. Schatzmeister
+<!--\\\[if !supportLists]-->c)  <!--\\\[endif]-->1. Schatzmeister
 
-<!--\\[if !supportLists]-->d) <!--\\[endif]-->2. Schatzmeister
+<!--\\\[if !supportLists]-->d) <!--\\\[endif]-->2. Schatzmeister
 
-<!--\\[if !supportLists]-->e)  <!--\\[endif]-->Schriftführer
+<!--\\\[if !supportLists]-->e)  <!--\\\[endif]-->Schriftführer
 
-<!--\\[if !supportLists]-->f)   <!--\\[endif]-->Vereinsjugendleitung
+<!--\\\[if !supportLists]-->f)   <!--\\\[endif]-->Vereinsjugendleitung
 
-<!--\\[if !supportLists]-->g)  <!--\\[endif]-->1. und 2. Revisor
+<!--\\\[if !supportLists]-->g)  <!--\\\[endif]-->1. und 2. Revisor
 
-<!--\\[if !supportLists]-->17.  <!--\\[endif]-->Informations- und Meinungsaustausch
+<!--\\\[if !supportLists]-->17.  <!--\\\[endif]-->Informations- und Meinungsaustausch
 
-<!--\\[if !supportLists]-->18.  <!--\\[endif]-->Ende der Versammlung
+<!--\\\[if !supportLists]-->18.  <!--\\\[endif]-->Ende der Versammlung
 
 <!--EndFragment-->
