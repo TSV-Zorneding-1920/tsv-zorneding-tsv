@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 88. Mitgliederversammlung
 author: der Vorstand
 date: 2021-07-09T08:58:34.822Z
-sticky: false
+sticky: true
 featured: false
 featuredimage: /img/default.jpg
 ---
