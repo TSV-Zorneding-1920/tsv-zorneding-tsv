@@ -668,56 +668,34 @@ Stimmberechtigt sind alle Mitglieder, die am Versammlungstag das 18.Lebensjahr v
 
 Sollten Sie technisch nicht in der Lage sein, an der Mitgliederversammlung teilzunehmen, weil Sie keinen Computer, Tablet oder Smartphone oder eine eigene E-Mail besitzen, so bitten Sie doch ein Familienmitglied oder Bekannten um Unterstützung.
 
+
+
 **Tagesordnung:**
 
-<!--\\\[if !supportLists]-->1.     <!--\\\[endif]-->Begrüßung und Eröffnung der Versammlung durch den Vorsitzenden
-
-<!--\\\[if !supportLists]-->2.     <!--\\\[endif]-->Totengedenken
-
-<!--\\\[if !supportLists]-->3.     <!--\\\[endif]-->Feststellung der ordnungsgemäßen Einladung und Beschlussfähigkeit
-
-<!--\\\[if !supportLists]-->4.     <!--\\\[endif]-->Bekanntgabe der vorliegenden Anträge (Beschlussfassung Punkt 11)
-
-<!--\\\[if !supportLists]-->5.     <!--\\\[endif]-->Beschlussfassung über Tagesordnung
-
-<!--\\\[if !supportLists]-->6.     <!--\\\[endif]-->Geschäftsbericht des Vorsitzenden
-
-<!--\\\[if !supportLists]-->7.     <!--\\\[endif]-->Bericht des Schatzmeisters
-
-<!--\\\[if !supportLists]-->8.     <!--\\\[endif]-->Bericht des Vereinsjugendleiters
-
-<!--\\\[if !supportLists]-->9.     <!--\\\[endif]-->Bericht der Revisoren
-
-<!--\\\[if !supportLists]-->10.  <!--\\\[endif]-->Satzungsänderung lt. Erläuterung
-
-<!--\\\[if !supportLists]-->11.  <!--\\\[endif]-->Beschlussfassung über vorliegende Anträge
-
-<!--\\\[if !supportLists]-->12.  <!--\\\[endif]-->100-jähriges Vereinsjubiläum
-
-<!--\\\[if !supportLists]-->13.  <!--\\\[endif]-->Ehrung verdienter und langjähriger Mitglieder
-
-<!--\\\[if !supportLists]-->14.  <!--\\\[endif]-->Bildung des Wahlausschusses (Wahlleiter und Wahl-Protokollführer)
-
-<!--\\\[if !supportLists]-->15.  <!--\\\[endif]-->Entlastung des gesamten Vorstandes
-
-<!--\\\[if !supportLists]-->16.  <!--\\\[endif]-->Neuwahl
-
-<!--\\\[if !supportLists]-->a)  <!--\\\[endif]-->1.Vorsitzender
-
-<!--\\\[if !supportLists]-->b) <!--\\\[endif]-->2. Vorsitzender
-
-<!--\\\[if !supportLists]-->c)  <!--\\\[endif]-->1. Schatzmeister
-
-<!--\\\[if !supportLists]-->d) <!--\\\[endif]-->2. Schatzmeister
-
-<!--\\\[if !supportLists]-->e)  <!--\\\[endif]-->Schriftführer
-
-<!--\\\[if !supportLists]-->f)   <!--\\\[endif]-->Vereinsjugendleitung
-
-<!--\\\[if !supportLists]-->g)  <!--\\\[endif]-->1. und 2. Revisor
-
-<!--\\\[if !supportLists]-->17.  <!--\\\[endif]-->Informations- und Meinungsaustausch
-
-<!--\\\[if !supportLists]-->18.  <!--\\\[endif]-->Ende der Versammlung
+* Begrüßung und Eröffnung der Versammlung durch den Vorsitzenden
+* Totengedenken
+* Feststellung der ordnungsgemäßen Einladung und Beschlussfähigkeit
+* Bekanntgabe der vorliegenden Anträge (Beschlussfassung Punkt 11)
+* Beschlussfassung über Tagesordnung
+* Geschäftsbericht des Vorsitzenden
+* Bericht des Schatzmeisters
+* Bericht des Vereinsjugendleiters
+* Bericht der Revisoren
+* Satzungsänderung lt. Erläuterung
+* Beschlussfassung über vorliegende Anträge
+* 100-jähriges Vereinsjubiläum
+* Ehrung verdienter und langjähriger Mitglieder
+* Bildung des Wahlausschusses (Wahlleiter und Wahl-Protokollführer)
+* Entlastung des gesamten Vorstandes
+* Neuwahl
+  a) 1.Vorsitzender
+  b) 2. Vorsitzender
+  c) 1. Schatzmeister
+  d) 2. Schatzmeister
+  e) Schriftführer
+  f) Vereinsjugendleitung
+  g) 1. und 2. Revisor
+* Informations- und Meinungsaustausch
+* Ende der Versammlung
 
 <!--EndFragment-->
