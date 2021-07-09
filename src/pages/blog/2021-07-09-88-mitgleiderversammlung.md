@@ -1,10 +1,10 @@
 ---
 templateKey: blog-post
-title: 88. Mitgleiderversammlung
+title: 88. Mitgliederversammlung
 author: der Vorstand
 date: 2021-07-09T08:58:34.822Z
-sticky: true
-featured: true
+sticky: false
+featured: false
 featuredimage: /img/default.jpg
 ---
 <!--\\[if gte mso 9]><xml>
