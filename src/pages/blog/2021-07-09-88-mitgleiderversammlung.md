@@ -4,7 +4,7 @@ title: 88. Mitgliederversammlung
 author: der Vorstand
 date: 2021-07-09T08:58:34.822Z
 sticky: true
-featured: false
+featured: true
 featuredimage: /img/default.jpg
 ---
 <!--\\\[if gte mso 9]><xml>
