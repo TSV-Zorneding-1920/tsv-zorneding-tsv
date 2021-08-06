@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "**Mitgliederversammlung wählt in einer Online-Versammlung neuen Vorstand**"
 author: TSV Zorneding
 date: 2021-08-06T11:19:28.552Z
-sticky: false
+sticky: true
 featured: false
 featuredimage: /img/neuer-vorstand_tsv-zorending_2021.jpg
 ---
