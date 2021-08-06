@@ -7,7 +7,7 @@ sticky: false
 featured: false
 featuredimage: /img/neuer-vorstand_tsv-zorending_2021.jpg
 ---
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -46,9 +46,9 @@ featuredimage: /img/neuer-vorstand_tsv-zorending_2021.jpg
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -627,9 +627,9 @@ featuredimage: /img/neuer-vorstand_tsv-zorending_2021.jpg
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -654,21 +654,22 @@ featuredimage: /img/neuer-vorstand_tsv-zorending_2021.jpg
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\[endif]-->
 
-<!--StartFragment-->\
+<!--StartFragment-->
+
 Am Freitag den 23.07.hielt der TSV Zorneding seine Mitgliederversammlung erstmals online ab. Die turnusmäßig alle 2 Jahre stattfindende Versammlung konnte auf Grund der Pandemie in 2020 nicht stattfinden und wurde vergangene Woche digital nachgeholt. Die Mitglieder konnten über ein Online-Meeting live der Veranstaltung beiwohnen und über ein Online-Abstimmungstool ihre Stimmen bei den Wahlen abgeben.
 
 Die Versammlung entlastete den gesamten bisherigen Vorstand und wählte mit großer Mehrheit den neuen Vorstand für die nächsten 2 Jahre wie folgt:
 
-1. Vorsitzender Erwin Rett\
-2. Vorsitzender Mario Hüneburg\
-1. Schatzmeisterin Marit Hüneburg\
-2. Schatzmeister René Zenthöfer\
-Schriftführerin Uschi Philipp\
-Vereinsjugendleitung (unbesetzt)\
-1. Revisor: Herr Rainer Wegner\
-2. Revisor: Herr Michael Riedel
+1. Vorsitzender Erwin Rett
+2. Vorsitzender Mario Hüneburg
+3. Schatzmeisterin Marit Hüneburg
+4. Schatzmeister René Zenthöfer\
+   Schriftführerin Uschi Philipp\
+   Vereinsjugendleitung (unbesetzt)
+5. Revisor: Herr Rainer Wegner
+6. Revisor: Herr Michael Riedel
 
 Der neu gewählte Vorstand bedankt sich für das ihm entgegengebrachte Vertrauen und freut sich auf die kommenden Aufgaben.
 
