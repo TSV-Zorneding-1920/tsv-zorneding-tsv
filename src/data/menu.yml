@@ -1,30 +1,28 @@
 menu_entry:
   - title: Abteilungen
     menu_entry:
-    - page: 
-      title: Badminton
-    - page: 
-      title: Basketball
-    - page: https://fuge.tsv-zorneding.de
-      title: Fit und Gesund für Erwachsene
-    - page: https://fussball.tsv-zorneding.de
-      title: Fußball
-    - page: https://fussball-herren.tsv-zorneding.de
-      title: Fußball Herren
-    - page: https://handball.tsv-zorneding.de
-      title: Handball
-    - page: https://leichtathletik.tsv-zorneding.de
-      title: Leichtathletik
-    - page: https://taekwondo.tsv-zorneding.de
-      title: Taekwondo
-    - page: https://www.tsd-zorneding.de/
-      title: Tang Soo Do
-    - page: https://tischtennis.tsv-zorneding.de
-      title: Tischtennis
-    - page: https://turnen.tsv-zorneding.de
-      title: Turnen
-    - page: https://volleyball.tsv-zorneding.de
-      title: Volleyball
+      - page: null
+        title: Badminton
+      - page: null
+        title: Basketball
+      - page: https://fuge.tsv-zorneding.de
+        title: Fit und Gesund für Erwachsene
+      - page: https://fussball.tsv-zorneding.de
+        title: Fußball
+      - page: https://handball.tsv-zorneding.de
+        title: Handball
+      - page: https://leichtathletik.tsv-zorneding.de
+        title: Leichtathletik
+      - page: https://taekwondo.tsv-zorneding.de
+        title: Taekwondo
+      - page: https://www.tsd-zorneding.de/
+        title: Tang Soo Do
+      - page: https://tischtennis.tsv-zorneding.de
+        title: Tischtennis
+      - page: https://turnen.tsv-zorneding.de
+        title: Turnen
+      - page: https://volleyball.tsv-zorneding.de
+        title: Volleyball
   - page: /sportanlagen
     title: Sportanlagen
   - page: /downloads
