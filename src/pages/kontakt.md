@@ -45,7 +45,7 @@ sections:
         body: Schriftführerin
       - image_small: /img/img_2762-franca-oeckl-klein.jpg
         body: |-
-          Jugendvertreterin
+          Geschäftsstelle
 
           08106/23770
         title: Francesca Oeckl
