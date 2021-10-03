@@ -20,13 +20,13 @@ sections:
   - type: image_text_small
     title: Vorstand
     info:
-      - image_small: /img/erwin-rett-1.-vorsitzender-tsv-zorneding-1920.jpg
+      - image_small: /img/img_2756-erwin-rett-klein.jpg
         body: |-
           1. Vorsitzender
 
           08106/23231
         title: Erwin Rett
-      - image_small: /img/mario-hu-neburg-2-.vorsitzender-tsv-zorneding-1920.jpg
+      - image_small: /img/img_2752-mario-hu-neburg-klein.jpg
         body: |-
           stv. Vorsitzender
 
@@ -34,16 +34,16 @@ sections:
 
           0172 / 5885 798
         title: Mario Hüneburg
-      - image_small: /img/R.Schonlau.jpg
+      - image_small: /img/img_2772-marit-hu-neburg.jpg
         body: Schatzmeisterin
-        title: Renate Schonlau
-      - image_small: /img/G.Ziepl.jpg
+        title: Marit Hüneburg
+      - image_small: /img/img_2745-rene-zentho-fer-klein.jpg
         body: stv. Schatzmeisterin
-        title: Gerlinde Ziepl
-      - image_small: /img/uschi-philipp_schriftfu-hrerin_tsv-zorneding.jpg
+        title: René Zenthöfer
+      - image_small: /img/img_2736-uschi-philipp-klein.jpg
         title: Uschi Philipp
         body: Schriftführerin
-      - image_small: /img/F.Oeckl.jpg
+      - image_small: /img/img_2762-franca-oeckl-klein.jpg
         body: |-
           Jugendvertreterin
 
