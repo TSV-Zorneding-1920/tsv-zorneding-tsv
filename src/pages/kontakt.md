@@ -38,7 +38,7 @@ sections:
         body: Schatzmeisterin
         title: Marit Hüneburg
       - image_small: /img/img_2745-rene-zentho-fer-klein.jpg
-        body: stv. Schatzmeisterin
+        body: stv. Schatzmeister
         title: René Zenthöfer
       - image_small: /img/img_2736-uschi-philipp-klein.jpg
         title: Uschi Philipp
