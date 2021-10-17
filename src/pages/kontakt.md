@@ -47,7 +47,7 @@ sections:
         body: |-
           Geschäftsstelle
 
-          08106/23770
+          08106/20772
         title: Francesca Oeckl
       - image_small: /img/A.Wall.jpg
         body: Ehrenvorstand
