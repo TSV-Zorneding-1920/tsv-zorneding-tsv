@@ -14,4 +14,14 @@ sections:
     element:
       - title: Beitrittserklärung
         file: /img/20190116_Beitrittserklaerung-Aufnahmebedingungen.pdf
+  - type: file_list
+    title: Vereinsmagazin
+    element:
+      - title: Vereinsmagazin
+        file: /img/2012_VM54.pdf
+  - type: file_list
+    title: Satzung
+    element:
+      - title: Satzung
+        file: /img/20140509_TSV-Satzung.pdf
 ---
