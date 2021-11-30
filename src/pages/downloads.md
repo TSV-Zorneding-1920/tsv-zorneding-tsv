@@ -23,5 +23,5 @@ sections:
     title: Satzung
     element:
       - title: Satzung
-        file: /img/20140509_TSV-Satzung.pdf
+        file: /img/2021-07-23-tsv-satzung-beschlossen.pdf
 ---
