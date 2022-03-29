@@ -7,7 +7,7 @@ sections:
   - type: file_list
     title: Übungsprogramm
     element:
-      - file: /img/2021-11-08_uebungsprogramm-neu-2021.pdf
+      - file: /img/tsv-zorneding__uebungsprogramm.pdf
         title: Übungsprogramm
   - type: file_list
     title: Vereinsmagazin
