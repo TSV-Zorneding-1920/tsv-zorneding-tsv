@@ -58,9 +58,6 @@ sections:
       - image_small: /img/default_person.png
         body: Badminton
         title: Peter Hofstetter
-      - image_small: /img/P.Kammerlocher.jpg
-        body: Basketball
-        title: Philip Kammerlocher
       - image_small: /img/default_person.png
         body: Fit und Gesund für Erwachsene
         title: Heike Ross
@@ -79,12 +76,6 @@ sections:
 
           0172 / 5885 798
         title: Mario Hüneburg
-      - image_small: /img/default_person.png
-        body: |-
-          Handball
-
-          0172/8530605
-        title: Petra Gibtner
       - image_small: /img/M.Haendel.jpg
         body: |-
           Leichtathletik
