@@ -73,7 +73,7 @@ sections:
         title: Jakob Bouacha
       - image_small: /img/default_person.png
         body: |-
-          Fußball Juggend
+          Fußball Jugend
 
           089 / 6606 5691
 
