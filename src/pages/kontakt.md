@@ -106,6 +106,6 @@ sections:
         body: |-
           Volleyball
 
-          0160 / 4589012
-        title: Ralph Richter
+          0176 / 55 74 29 32
+        title: Anton Zollbrecht
 ---
