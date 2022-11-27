@@ -36,9 +36,9 @@ sections:
 
       Raiffeisenbank Zorneding
 
-      IBAN: DE27 7016 9619 0000 0165 00
+      IBAN: DE63 7016 9450 0003 2165 00
 
-      BIC: GENODEF1ZOR
+      BIC: GENODEF1ASG
 
 
       **Registereintrag:**
