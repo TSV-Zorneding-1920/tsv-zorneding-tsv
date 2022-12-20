@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Geschäftsstelle ist vom 27.12.22 – 09.01.22 für den Parteienverkehr geschlossen
+title: Geschäftsstelle ist vom 27.12.22 – 09.01.23 für den Parteienverkehr geschlossen
 author: Der Vorstand
 date: 2021-12-14T14:14:23.188Z
 sticky: true
