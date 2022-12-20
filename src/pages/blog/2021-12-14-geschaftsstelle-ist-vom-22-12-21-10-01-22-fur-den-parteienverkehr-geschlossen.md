@@ -7,4 +7,4 @@ sticky: true
 featured: false
 featuredimage: /img/gs-geschlossen.png
 ---
-Wir nutzen die Festtage und den Jahreswechsel, um mal so richtig durch zu schnaufen. Die Geschäftsstelle ist daher vom 27.12.22 bis einschließlich 09.01.2023 für den Parteienverkehr geschlossen. Ab dem 11. Januar sind wir wieder in der Geschäftsstelle zu den gewohnten Zeiten erreichbar.
+Wir nutzen die Festtage und den Jahreswechsel, um mal so richtig durch zu schnaufen. Die Geschäftsstelle ist daher vom 27.12.22 bis einschließlich 09.01.2023 für den Parteienverkehr geschlossen. Ab dem 10. Januar sind wir wieder in der Geschäftsstelle zu den gewohnten Zeiten erreichbar.
