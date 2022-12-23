@@ -2,7 +2,7 @@
 templateKey: static-page
 title: Startseite
 slug: startseite
-showTitle: true
+showTitle: false
 sections:
   - body: >-
       Der TSV Zorneding hat zurzeit rund 1400 Mitglieder und ist der größte
