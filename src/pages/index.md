@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
 title: Startseite
-slug: https://www.tsv-zorneding.de
+slug: startseite
 showTitle: true
 sections:
   - body: >-
