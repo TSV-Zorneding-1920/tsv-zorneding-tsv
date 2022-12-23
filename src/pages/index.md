@@ -1,7 +1,7 @@
 ---
 templateKey: static-page
 title: Startseite
-slug: startseite
+slug: " "
 showTitle: false
 sections:
   - body: >-
