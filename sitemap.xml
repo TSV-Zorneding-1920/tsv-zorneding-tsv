@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://www.tsv-zorneding.de/datenschutz/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.tsv-zorneding.de/downloads</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.tsv-zorneding.de/impressum</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.tsv-zorneding.de/startseite</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/kontakt</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/sponsoren/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.tsv-zorneding.de/downloads</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/sportanlagen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/blog/2020-03-10-tsv-zorneding-trauert-um-manfred-hauser-jun/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.tsv-zorneding.de/blog/2020-03-13-coronavirus-sportplaetze-und-hallen-gesperrt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/blog/2020-03-19-festakt-ersatzlos-abgesagt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.tsv-zorneding.de/blog/2020-03-13-coronavirus-sportplaetze-und-hallen-gesperrt/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/blog/2020-03-26-sonderregelung-altpapiersammlung-zorneding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/blog/2020-06-05-sonderregelung-altpapiersammlung-aufgehoben/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.tsv-zorneding.de/blog/2020-11-19-neues-vereinsmagazin-online/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/blog/2020-11-06-jahreshauptversammlung-des-tsv-zorneding-muss-verschoben-werden/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/blog/2021-05-13-erklaerung-der-vorstandsmitglieder/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.tsv-zorneding.de/blog/2020-11-19-neues-vereinsmagazin-online/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/blog/2021-06-17-tsv-zorneding-vereinsausschuss-besetzt-vorstand-nach/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/blog/2021-07-09-88-mitgleiderversammlung/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/blog/2021-07-16-leichtathletik-trainer-in-fur-20-kids-gesucht/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/blog/2021-08-06-mitgliederversammlung-wahlt-in-einer-online-versammlung-neuen-vorstand/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://www.tsv-zorneding.de/blog/2021-12-14-frohe-weihnachten-und-kommt-gut-ins-neue-jahr/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/blog/2021-12-14-geschaftsstelle-ist-vom-22-12-21-10-01-22-fur-den-parteienverkehr-geschlossen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.tsv-zorneding.de/blog/2021-12-14-frohe-weihnachten-und-kommt-gut-ins-neue-jahr/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.tsv-zorneding.de/impressum</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://www.tsv-zorneding.de/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/tag/coronavirus-covid-19/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://www.tsv-zorneding.de/blog/2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
