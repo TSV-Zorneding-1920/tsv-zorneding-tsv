@@ -84,12 +84,12 @@ sections:
 
           0162 / 2590253
         title: Manfred Händel
-      - image_small: /img/A.Duerre.jpg
+      - image_small: /img/s.keskari.jpg
         body: |-
           Taekwondo
 
-          08106 / 33520
-        title: Anja Duerre
+          08106 / 20811
+        title: Stefan Keskari
       - image_small: /img/default_person.png
         body: |-
           Tischtennis
