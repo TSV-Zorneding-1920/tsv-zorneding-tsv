@@ -20,13 +20,13 @@ sections:
   - type: image_text_small
     title: Vorstand
     info:
-      - image_small: /img/img_2756-erwin-rett-klein.jpg
+      - image_small: /img/erwin.jpg
         body: |-
           1. Vorsitzender
 
           08106/23231
         title: Erwin Rett
-      - image_small: /img/img_2752-mario-hu-neburg-klein.jpg
+      - image_small: /img/mario.jpg
         body: |-
           stv. Vorsitzender
 
@@ -34,21 +34,27 @@ sections:
 
           0172 / 5885 798
         title: Mario Hüneburg
-      - image_small: /img/img_2772-marit-hu-neburg.jpg
+      - image_small: /img/marit.jpg
         body: Schatzmeisterin
         title: Marit Hüneburg
-      - image_small: /img/img_2745-rene-zentho-fer-klein.jpg
+      - image_small: /img/rene.jpg
         body: stv. Schatzmeister
         title: René Zenthöfer
-      - image_small: /img/img_2736-uschi-philipp-klein.jpg
+      - image_small: /img/uschi.jpg
         title: Uschi Philipp
         body: Schriftführerin
-      - image_small: /img/img_2762-franca-oeckl-klein.jpg
+      - image_small: /img/franca.jpg
         body: |-
           Geschäftsstelle
 
           08106/20772
         title: Francesca Oeckl
+      - image_small: /img/daniela.jpg
+        title: Daniela Delges
+        body: |-
+          Geschäftsstelle
+
+          08106/20772
       - image_small: /img/A.Wall.jpg
         body: Ehrenvorstand
         title: Alfred Wall
