@@ -55,6 +55,9 @@ sections:
           Geschäftsstelle
 
           08106/20772
+      - image_small: /img/linus.jpg
+        title: Linus Hölzl
+        body: Jugendvertretung@tsv-zorneding.de
       - image_small: /img/A.Wall.jpg
         body: Ehrenvorstand
         title: Alfred Wall
@@ -114,4 +117,5 @@ sections:
 
           0176 / 55 74 29 32
         title: Anton Zollbrecht
+  - type: contact
 ---
