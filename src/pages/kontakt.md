@@ -117,5 +117,4 @@ sections:
 
           0176 / 55 74 29 32
         title: Anton Zollbrecht
-  - type: contact
 ---
