@@ -70,8 +70,10 @@ sections:
         body: Ein echter Teamsport
         link: https://volleyball.tsv-zorneding.de/
       - image: /img/dart.png
-        title: Dart startet in den Wettkampfbetrieb
+        title: Dart
         body: |-
+          Dart startet in den Wettkampfbetrieb.
+
           HEIMSPIELE de Zornedinga Bulls
 
           Sa. 11.11.23 - 20.30 Uhr
