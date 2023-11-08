@@ -1,6 +1,7 @@
 ---
 templateKey: static-page
 title: Startseite
+slug: u
 showTitle: false
 sections:
   - body: >-
@@ -76,14 +77,23 @@ sections:
           HEIMSPIELE de Zornedinga Bulls
 
           Sa. 11.11.23 - 20.30 Uhr
+
           Fr. 01.12.23 - 20 Uhr
+
           Fr. 15.12.23 - 20 Uhr
+
           Sa. 03.02.24 - 20 Uhr
+
           Fr. 23.02.24 - 20 Uhr
+
           Sa. 02.03.24 - 20 Uhr
+
           Fr. 15.03.24 - 20.30 Uhr
+
           Fr. 19.04.24 - 20 Uhr
+
           Fr. 03.05.24 - 20.30 Uhr
+
           Fr. 07.06.24 - 20 Uhr
 
           Zuschauer sind herzlich Willkommen!
