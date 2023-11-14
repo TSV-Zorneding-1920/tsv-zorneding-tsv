@@ -118,9 +118,9 @@ sections:
           0176 / 55 74 29 32
         title: Anton Zollbrecht
       - image_small: /img/default_person.png
-        title: Dart
+        title: B﻿ernhardt Eisner
         body: |-
-          B﻿ernhardt Eisner
+          Dart
 
           d﻿art@tsv-zorneding.de
 
