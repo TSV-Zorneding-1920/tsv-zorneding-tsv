@@ -43,12 +43,12 @@ sections:
       - image_small: /img/uschi.jpg
         title: Uschi Philipp
         body: Schriftführerin
-      - image_small: /img/franca.jpg
+      - image_small: /img/maria-obermeier.jpg
         body: |-
           Geschäftsstelle
 
           08106/20772
-        title: Francesca Oeckl
+        title: Maria Obermeier
       - image_small: /img/daniela.jpg
         title: Daniela Delges
         body: |-
