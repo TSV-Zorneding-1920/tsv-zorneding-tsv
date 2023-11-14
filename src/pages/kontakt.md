@@ -85,7 +85,7 @@ sections:
 
           0172 / 5885 798
         title: Mario Hüneburg
-      - image_small: /img/M.Haendel.jpg
+      - image_small: /img/default_person.png
         body: |-
           Leichtathletik
 
@@ -93,7 +93,7 @@ sections:
 
           0162 / 2590253
         title: Manfred Händel
-      - image_small: /img/s.keskari.jpg
+      - image_small: /img/default_person.png
         body: |-
           Taekwondo
 
@@ -105,7 +105,7 @@ sections:
 
           0160 / 6248004
         title: André Duwel
-      - image_small: /img/W.Endler.jpg
+      - image_small: /img/default_person.png
         body: |-
           Turnen
 
@@ -117,4 +117,12 @@ sections:
 
           0176 / 55 74 29 32
         title: Anton Zollbrecht
+      - image_small: /img/default_person.png
+        title: Dart
+        body: |-
+          B﻿ernhardt Eisner
+
+          d﻿art@tsv-zorneding.de
+
+          0﻿176 / 45783393
 ---
