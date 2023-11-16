@@ -13,7 +13,7 @@ sections:
     title: Vereinsmagazin
     element:
       - title: Vereinsmagazin
-        file: /img/221025_tsv-vereinsmagazin2022-ansicht.pdf
+        file: /img/2023-11-vereinsmagazin.pdf
   - type: file_list
     title: Beitrittserklärung
     element:
