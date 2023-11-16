@@ -1,6 +1,7 @@
 ---
 templateKey: static-page
 title: Startseite
+slug: .
 showTitle: false
 sections:
   - body: >-
@@ -73,7 +74,7 @@ sections:
         body: |-
           Dart startet in den Wettkampfbetrieb.
 
-          HEIMSPIELE de Zornedinga Bulls
+          HEIMSPIELE "de Zornedinga Bulls"
 
           Sa. 11.11.23 - 20.30 Uhr\
           Fr. 01.12.23 - 20 Uhr\
