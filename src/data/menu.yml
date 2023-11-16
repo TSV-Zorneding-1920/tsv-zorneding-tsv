@@ -5,7 +5,6 @@ menu_entry:
         title: Badminton
       - page: null
         title: Basketball
-      - title: Dart
       - page: https://fuge.tsv-zorneding.de
         title: Fit und Gesund für Erwachsene
       - page: https://fussball.tsv-zorneding.de
