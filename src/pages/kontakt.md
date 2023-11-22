@@ -24,7 +24,7 @@ sections:
         body: |-
           1. Vorsitzender
 
-          08106/23231
+          08106 / 23231
         title: Erwin Rett
       - image_small: /img/mario.jpg
         body: |-
